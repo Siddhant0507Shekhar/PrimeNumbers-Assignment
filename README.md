@@ -15,18 +15,18 @@ To run this project on your local machine, follow these steps:
    ```
 2. Navigate to the project folder in your terminal or command prompt.
 
-```shell
-cd PrimeNumbers-Assignment
-```
+   ```shell
+   cd PrimeNumbers-Assignment
+   ```
 3. Install all the required libraries by running the following command:
 
-```shell
-pip install -r requirements.txt
-```
+   ```shell
+   pip install -r requirements.txt
+   ```
 4. Open the chromedriver_win32 folder and run the chromedriver app. Make sure that you do not have an older version of chromedriver installed on your computer.
 
 5. Go back to the terminal or command prompt and run the assignment.py file located in the root project folder:
 
-```shell
-python assignment.py
-```
+   ```shell
+   python assignment.py
+   ```
